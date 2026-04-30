@@ -18,7 +18,7 @@ wasteCategory: {type: String,required: true, enum: ["Plastic", "Paper", "Glass",
   recyclingRequests: [
     {
       type: mongoose.Schema.Types.ObjectId,
-      ref: "listing",
+      ref: "adv",
     },
   ],
 
