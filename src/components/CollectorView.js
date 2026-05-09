@@ -19,14 +19,6 @@ import { wasteCategories, recyclingCenters } from '@/lib/constants';
 import ReserveModal from './modals/ReserveModal';
 import CancelModal from './modals/CancelModal';
 
-// ─── Color Palette ───────────────────────────────────────────────────────────
-// Main Green      #3A7D5E
-// Emerald Accent  #10B981
-// Soft Green      #E7F5EC
-// Warm Beige      #F5EFE6
-// Cream           #FCFAF7
-// Dark Olive Text #2B3A2E
-// ─────────────────────────────────────────────────────────────────────────────
 
 export default function CollectorView() {
 
